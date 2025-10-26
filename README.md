@@ -1,8 +1,10 @@
 # code-deep-dive — 开源项目源码剖析
 
 > 深入理解，源于阅读。
-> 
+>
 > A collection of deep-dive analyses on popular open-source projects — from code structure to design philosophy.
+
+![](./images/banner.png)
 
 ## 📚 项目简介
 
@@ -35,12 +37,12 @@ code-deep-dive/
 
 ## 🔍 当前已分析项目
 
-| 项目                                                       | 简介                       | 分析进度   |
-| -------------------------------------------------------- | ------------------------ | ------ |
-| [json-server](https://github.com/typicode/json-server)   | 模拟 REST API 的轻量服务的Node 工具 | ✅ 已完成  |
-| [yocto-spinner](https://github.com/whotto/yocto-spinner) | 超小型前端 loading 动画库        | ✅ 已完成  |
-| [express](https://github.com/expressjs/express)          | Node.js Web 框架鼻祖         | 🚧 分析中 |
-| [vuejs](https://github.com/vuejs/core)                | Vue 3 源码                 | 🕓 计划中 |
+| 项目                                                     | 简介                                 | 分析进度  |
+| -------------------------------------------------------- | ------------------------------------ | --------- |
+| [json-server](https://github.com/typicode/json-server)   | 模拟 REST API 的轻量服务的 Node 工具 | ✅ 已完成 |
+| [yocto-spinner](https://github.com/whotto/yocto-spinner) | 超小型前端 loading 动画库            | ✅ 已完成 |
+| [express](https://github.com/expressjs/express)          | Node.js Web 框架鼻祖                 | 🚧 分析中 |
+| [vuejs](https://github.com/vuejs/core)                   | Vue 3 源码                           | 🕓 计划中 |
 
 ## 🧭 分析重点
 
@@ -56,6 +58,7 @@ code-deep-dive/
 
 欢迎大家一起来阅读与分享！
 如果你也想加入源码剖析的创作：
+
 - Fork 本仓库
 - 提交你的分析文档（例如 analysis.md）
 - 发起 Pull Request ✨
@@ -69,4 +72,3 @@ code-deep-dive/
 ## 🧩 License
 
 本项目采用 MIT License
-
