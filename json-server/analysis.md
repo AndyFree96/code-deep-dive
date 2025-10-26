@@ -1,10 +1,8 @@
+![](./images/danist-soh-p7kMu-QwI0M-unsplash.jpg)
+
 在前端开发中，构建一套完整的后端接口往往耗时费力，而 [json-server](https://github.com/typicode/json-server)正是为了解决这一痛点而生。只需一个 JSON 文件，它就能快速生成一个 REST API 服务，被广泛用于前端开发、原型验证、接口测试等场景。本文将深入剖析 [json-server](https://github.com/typicode/json-server)的源码，一起理解它是如何工作的，并从中学习一些开发技巧。
 
-<!--more-->
-
-{{< admonition >}}
-剖析的`json-server`版本为`v1.0.0-beta.3`。
-{{< /admonition >}}
+> 剖析的`json-server`版本为`v1.0.0-beta.3`。
 
 ## 一个简单但不完整的实现
 

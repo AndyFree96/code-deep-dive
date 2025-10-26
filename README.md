@@ -67,8 +67,10 @@ code-deep-dive/
 
 🐙 GitHub: [AndyFree96](https://github.com/AndyFree96)
 
+🐦 [博客](https://andyfree96.github.io/): 同步更新中
+
 📅 每月更新 1~2 个项目分析
 
 ## 🧩 License
 
-本项目采用 MIT License
+本项目采用 [MIT License](./LICENSE)
