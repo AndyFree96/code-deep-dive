@@ -47,12 +47,12 @@ code-deep-dive/
 
 ## 🔍 当前已分析项目
 
-| 项目                                                           | 简介                                 | 分析进度  |
-| -------------------------------------------------------------- | ------------------------------------ | --------- |
-| [json-server](https://github.com/typicode/json-server)         | 模拟 REST API 的轻量服务的 Node 工具 | ✅ 已完成 |
-| [yocto-spinner](https://github.com/sindresorhus/yocto-spinner) | 超小型前端 loading 动画库            | 🚧 分析中 |
-| [express](https://github.com/expressjs/express)                | Node.js Web 框架鼻祖                 | 🚧 分析中 |
-| [vuejs](https://github.com/vuejs/core)                         | Vue 3 源码                           | 🕓 计划中 |
+| 项目                                                           | 简介                                                                                                | 分析进度  |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------- |
+| [json-server](https://github.com/typicode/json-server)         | Get a full fake REST API with zero coding in less than 30 seconds                                   | ✅ 已完成 |
+| [yocto-spinner](https://github.com/sindresorhus/yocto-spinner) | Tiny terminal spinner                                                                               | 🚧 分析中 |
+| [express](https://github.com/expressjs/express)                | Fast, unopinionated, minimalist web framework for node.祖                                           | 🚧 分析中 |
+| [vuejs](https://github.com/vuejs/core)                         | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web | 🕓 计划中 |
 
 ## 🧭 分析重点
 
