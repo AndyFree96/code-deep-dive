@@ -1,5 +1,15 @@
 # code-deep-dive — 开源项目源码剖析
 
+<p align="center"> 
+<a href="https://github.com/AndyFree96/code-deep-dive /stargazers"> 
+<img src="https://img.shields.io/github/stars/AndyFree96/code-deep-dive ?style=flat-square&color=yellow" alt="stars"> </a> 
+<a href="#"> <img src="https://img.shields.io/badge/projects-4-blueviolet?style=flat-square" alt="projects"> </a> 
+<a href="#"> <img src="https://img.shields.io/badge/update-weekly-success?style=flat-square" alt="update frequency"> </a> 
+<a href="LICENSE"> 
+<img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="license"> </a>
+ <a href="#"> <img src="https://img.shields.io/badge/author-Anthony%20Free-orange?style=flat-square" alt="author"> </a> 
+</p>
+
 > 深入理解，源于阅读。
 >
 > A collection of deep-dive analyses on popular open-source projects — from code structure to design philosophy.
