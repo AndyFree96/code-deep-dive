@@ -33,13 +33,13 @@ code-deep-dive/
 │   ├── analysis.md         # 源码分析文档
 │   └── diagrams/           # 架构或调用关系图
 │
-├── yocto-spinner/          # 前端 loading 动画库源码剖析
+├── yocto-spinner/
 │   └── analysis.md
 │
-├── express/                # Node.js Web 框架
+├── express/
 │   └── analysis.md
 │
-├── vuejs/                    # Vue 源码剖析
+├── vuejs/
 │   └── ...
 │
 └── README.md
@@ -47,12 +47,16 @@ code-deep-dive/
 
 ## 🔍 当前已分析项目
 
-| 项目                                                           | 简介                                                                                                | 分析进度  |
-| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- | --------- |
-| [json-server](https://github.com/typicode/json-server)         | Get a full fake REST API with zero coding in less than 30 seconds                                   | ✅ 已完成 |
-| [yocto-spinner](https://github.com/sindresorhus/yocto-spinner) | Tiny terminal spinner                                                                               | 🚧 分析中 |
-| [express](https://github.com/expressjs/express)                | Fast, unopinionated, minimalist web framework for node.祖                                           | 🚧 分析中 |
-| [vuejs](https://github.com/vuejs/core)                         | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web | 🕓 计划中 |
+| 项目                                                           | 简介                                                                                                                             | 语言    | 难度       | 分析进度  |
+| -------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | ------- | ---------- | --------- |
+| [json-server](https://github.com/typicode/json-server)         | Get a full fake REST API with zero coding in less than 30 seconds                                                                | Node.js | ⭐⭐       | ✅ 已完成 |
+| [yocto-spinner](https://github.com/sindresorhus/yocto-spinner) | Tiny terminal spinner                                                                                                            | Node.js | ⭐         | 🚧 分析中 |
+| [express](https://github.com/expressjs/express)                | Fast, unopinionated, minimalist web framework for node                                                                           | Node.js | ⭐⭐⭐     | 🚧 分析中 |
+| [vuejs](https://github.com/vuejs/core)                         | 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web                              | Node.js | ⭐⭐⭐⭐   | 🕓 计划中 |
+| [leveldb](https://github.com/google/leveldb)                   | LevelDB is a fast key-value storage library written at Google that provides an ordered mapping from string keys to string values | C++     | ⭐⭐⭐⭐⭐ | 🕓 计划中 |
+| [ripgrep](https://github.com/BurntSushi/ripgrep)               | ripgrep recursively searches directories for a regex pattern while respecting your gitignore                                     | Rust    | ⭐⭐⭐     | 🕓 计划中 |
+| [tokio](https://github.com/tokio-rs/tokio)                     | A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers                 | Rust    | ⭐⭐⭐⭐   | 🕓 计划中 |
+| [etcd]()                                                       | Distributed reliable key-value store for the most critical data of a distributed system                                          | Go      | ⭐⭐⭐⭐⭐ | 🕓 计划中 |
 
 ## 🧭 分析重点
 
